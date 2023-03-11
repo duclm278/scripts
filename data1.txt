@@ -1,0 +1,199 @@
+STT	Tên Công ty	Website	Số Đề tài	Số NV	Tuyển dụng	Địa chỉ
+1	"Vietcombank
+Ngân hàng TMCP Ngoại thương Việt Nam"	Website	16	20000	30 SV	198 Trần Quang Khải, Hoàn Kiếm, Hà Nội
+2	"FPT Software
+Công ty TNHH Phần mềm FPT"	Website	30	16000	100 SV	Tòa nhà FPT Cầu Giấy, phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội
+3	"MBBank
+Ngân hàng TMCP Quân đội"	Website	22	15691	100 SV	18 Lê Văn Lương, phường Trung Hòa, quận Cầu Giấy, Hà Nội
+4	"Viettel Group
+Tập đoàn Công nghiệp - Viễn thông Quân đội"	Website	170	10000	0 SV	Lô D26, Khu đô thị mới Cầu Giấy, Yên Hòa, Hà Nội
+5	"VNG Corporation
+Công ty Cổ phần VNG"	Website	7	5000	0 SV	54A Nguyễn Chí Thanh, Đống Đa, Hà Nội
+6	"Bamboo Airways
+Công ty Cổ phần Hàng không Tre Việt"	Website	0	4000	50 SV	Tầng 22, Tòa nhà Bamboo Airways Tower, 265 Cầu Giấy, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội
+7	"MISA
+Công ty Cổ phần MISA"	Website	15	2000	80 SV	Tầng 3, Tòa nhà Technosoft, Ngõ 15 Duy Tân, Cầu Giấy, Hà Nội
+8	"SVMC (Samsung Vietnam Mobile R&D Center)
+Trung tâm nghiên cứu và phát triển ĐTDĐ Samsung Việt Nam"	Website	2	2000	100 SV	Tòa nhà PVI, Số 1 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội
+9	"VCCorp
+Công ty Cổ phần VCCorp"	Website	68	2000	200 SV	Số 1 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội
+10	"Bkav
+Công ty cổ phần Bkav"	Website	6	1800	150 SV	Tầng 2, tòa nhà HH1, khu đô thị Yên Hòa, quận Cầu Giấy, Hà Nội
+11	"SSI
+Công ty Cổ phần Chứng khoán SSI"	Website	0	1500	0 SV	72 Nguyễn Huệ, P.Bến Nghé, Quận 1, Tp.Hồ Chí Minh
+12	"Sun* Inc. Việt Nam
+Công ty TNHH Sun Asterisk Việt Nam"	Website	6	1500	70 SV	Tầng 13, Keangnam Hanoi Landmark Tower, Phạm Hùng, Mễ Trì, Từ Liêm, Hà Nội
+13	"Sun* Inc.
+CÔNG TY TNHH SUN ASTERISK VIỆT NAM"	Website	3	1500	0 SV	Tầng 13, Keangnam Hanoi Landmark Tower, khu E6 khu đô thị mớ - Phường Mễ Trì - Quận Nam Từ Liêm - Hà Nội
+14	"Rikkeisoft
+Công ty TNHH Rikkeisoft"	Website	13	1500	30 SV	Handico Tower, Tầng 21 Phạm Hùng, Mễ Trì Hạ, Nam Từ Liêm, Hà Nội
+15	"VNPT Technology
+Công ty CP Công nghệ Công nghiệp Bưu chính Viễn thông"	Website	32	1400	100 SV	124 Hoàng Quốc Việt, Nghĩa Tân, Cầu Giấy, Hà Nội
+16	"VNPT-Vinaphone
+Tổng Công ty Dịch vụ Viễn thông VNPT-Vinaphone"	Website	0	1000	0 SV	Tòa nhà Vinaphone, đường Nguyễn Văn Huyên kéo dài, phường Xuân La, quận Tây Hồ, Hà Nội
+17	"SotaTek
+Công ty cổ phần công nghệ SotaTek"	Website	19	800	15 SV	Tầng 7, CIC Tower , 219 Trung Kính, quận Cầu Giấy , Hà Nội
+18	"Sapo
+Công ty Cổ phần Công Nghệ Sapo"	Website	9	800	20 SV	Tầng 6 - Tòa nhà Ladeco - 266 Đội Cấn - Phường Liễu Giai - Quận Ba Đình - Hà Nội
+19	"NashTech
+Chi nhánh Công ty HarveyNash Việt Nam tại Hà Nội"	Website	1	600	30 SV	Tòa HITC, 239 Xuân Thủy, Cầu Giấy, Hà Nội
+20	"SmartOSC
+Công ty cổ phần SmartOSC"	Website	12	600	60 SV	Tầng 18 toa nhà Handico- Ngã tư Phạm Hùng giao Mễ Trì
+21	"Monstar Lab
+Công ty TNHH Monstar Lab Việt Nam"	Website	1	500	50 SV	Tầng 4 – Block C, tòa nhà Golden Palace, đường Mễ Trì, quận Nam Từ Liêm, Hanoi, Vietnam.
+22	"Luvina
+Công ty cổ phần phần mềm Luvina"	Website	1	500	10 SV	Tòa nhà Hòa Bình, 106 Hoàng Quốc Việt, Cầu Giấy, HN
+23	"CO-WELL Asia
+Công ty TNHH CO-WELL Châu á"	Website	12	500	15 SV	Số 3 Duy Tân - Dịch Vọng Hậu - Cầu Giấy - Hà Nội
+24	"OpenWay
+Công ty TNHH OpenWay Việt Nam"	Website	7	500	6 SV	Tầng 14 tòa Đông Lotte Center Hanoi, 54 Liễu Giai, P.Cống Vị, Q.Ba Đình, Hà Nội
+25	"Unicloud
+Công ty Cổ phần Tập đoàn Công nghệ Unicloud"	Website	2	500	10 SV	16 Phạm Hùng, Nam Từ Liêm, Hà Nội
+26	"VNTravel Group
+Công Ty Cổ Phần Du Lịch Việt Nam VNTravel"	Website	2	400	10 SV	Tòa nhà Peakview, 36 Hoàng Cầu, Đống Đa, Hà Nội
+27	"VNEXT SOFTWARE
+Công ty cổ phần VNEXT SOFTWARE"	Website	14	400	20 SV	Tầng 18, Tháp C, Số 219 Trung Kính, Cầu Giấy, Hà Nội
+28	"Công ty Viễn thông điện lực và công nghệ thông tin
+Công ty Viễn thông điện lực và công nghệ thông tin - Chi nhánh Tập đoàn Điện lực Việt Nam"	Website	10	400	60 SV	11 Cửa Bắc, Ba Đình, Hà Nội
+29	"VTI
+Công ty Cổ Phần VTI"	Website	23	360	10 SV	Tầng 6 tòa nhà AC, số 03 ngõ 78 Duy Tân, P. Dịch Vọng, Q. Cầu Giấy, Hà Nội
+30	"Chứng khoán Tân Việt (TVSI)
+CTCP Chứng khoán Tân Việt (TVSI)"	Website	3	350	5 SV	79 Lý Thường Kiệt, Hoàn Kiếm, Hà Nội
+31	"FTECH CO.,LTD
+Công ty TNHH Công nghệ Gia đình"	Website	13	350	20 SV	Tầng 5, tòa nhà HTP, 434 Trần Khát Chân, Phố Huế, Hà nội, Việt Nam
+32	"IBM Vietnam
+IBM Vietnam"	Website	2	300	0 SV	level 2 Pacific Place, 83B Ly Thuong Kiet, Hoan Kiem, Hanoi
+33	"Kaopiz
+Công ty TNHH Công nghệ phần mềm Kaopiz"	Website	11	300	5 SV	CT1, C14, Bắc Hà, Tố Hữu, Nam Từ Liêm, Hà Nội
+34	"HBLAB
+Công ty cổ phần HBLAB"	Website	6	250	20 SV	Tầng 2, Tháp C, toà nhà Central Point, 219 Trung Kính, phương Yên Hoà, Cầu Giấy, Hà Nội.
+35	"Base Enterprise
+Công ty cổ phần Base Enterprise"	Website	7	250	30 SV	Tầng 3, tòa A GoldSeason, 47 Nguyễn Tuân, Thanh Xuân, Hà Nội
+36	"Trung tâm Công nghệ Thông tin MobiFone
+Trung tâm Công nghệ Thông tin MobiFone - Chi nhánh Tổng Công ty Viễn thông  MobiFone"	Website	40	250	30 SV	Tòa Thai Nam Building, số 22D, Dương Đình Nghệ, Yên Hòa, Cầu Giấy, Hà Nội
+37	"VietIS Corporation
+Công ty cổ phần Đầu tư và Giải pháp VietIS"	Website	7	200	4 SV	Tòa nhà 3A ngõ 82 Duy Tân, Cầu Giấy, Hà Nội
+38	"Gameloft
+Chi nhánh Công ty TNHH Gameloft tại Hà Nội"	Website	3	200	15 SV	Tầng 3 & 4, toà nhà Lilama 10, phố Tố Hữu, phường Trung Văn, quận Nam Từ Liêm, Hà Nội
+39	"VinBigData
+Vingroup Big Data Institute"	Website	5	200	20 SV	Tầng 5, tòa nhà Tower 1, TTTM Times City, 458 Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội
+40	"TopCV Việt Nam
+Công ty cổ phần TopCV Việt Nam"	Website	2	150	10 SV	Tầng 03, Tòa nhà Goldseason, 47 Nguyễn Tuân, Thanh Xuân, Hà Nội
+41	"TRÍ NAM
+TẬP ĐOÀN TRÍ NAM"	Website	18	150	30 SV	Số 94 Nguyễn Khánh Toàn, Cầu Giấy, HN
+42	"LINAGORA
+Công ty TNHH Linagora"	Website	6	150	3 SV	Phòng 9.21, Tầng 9, Toong, số 5 Điện Biên Phủ, phường Điện Biên, quận Ba Đình, Hà Nội
+43	"Flinters Việt Nam
+Công ty TNHH Flinters Việt Nam"	Website	5	130	50 SV	Phòng 1801, tầng 18, tòa CMC, 11 Duy Tân, Cầu Giấy, Hà Nội / Tầng 24, tòa nhà Discovery Complex, số 302 Cầu Giấy, TP Hà Nội
+44	"Thủ Đô Multimedia
+Công ty Cổ phần truyền thông Đa phương tiện Thủ Đô"	Website	5	120	20 SV	tầng 10, tòa Diamond Flower Tower, số 48 Lê Văn Lương, Thanh Xuân, Hà Nội
+45	"Magenest.,JSC
+Công ty Cổ phần Magenest Việt Nam"	Website	5	120	10 SV	P409, tầng 4, tòa nhà GP Invest, số 170 La Thành, phường Ô Chợ Dừa, Đống Đa, Hà Nội
+46	"Rabiloo
+Công ty TNHH Rabiloo"	Website	6	100	20 SV	Tầng 5, toà nhà A3 Ecolife Capitol, số 58 Tố Hữu, Mễ Trì, Nam Từ Liêm, Hà Nội
+47	"ABI Game Studio
+ABI Game Studio - Công ty Cổ phần OneSoft"	Website	5	100	0 SV	Tầng 14, Toà Detech Tower II, số 107 Nguyễn Phong Sắc, Hà Nội
+48	"TCOM
+Công Ty Cổ Phần Công Nghệ Và Truyền Thông TCOM"	Website	3	100	10 SV	Trụ sở: 26B/92, tổ 11, Phường Hoàng Văn Thụ, Quận Hoàng Mai, TP Hà Nội ĐĐKD: Tầng 8+9 Số 391 Trường Chinh, Phường Khương Trung, Quận Thanh Xuân, TP Hà Nội
+49	"Rocket Studio
+Công ty cổ phần Công nghệ và Sáng tạo Rocket"	Website	8	100	20 SV	Ô D29 Phạm Văn Bạch, Cầu Giấy, Hà Nội
+50	"BSS Group
+BSS GROUP Công ty Cổ phần Quốc tế Đầu tư và Phát triển công nghệ Thành Công"	Website	7	100	15 SV	Tầng 18 toà nhà Viwaseen, số 48 Tố Hữu, Nam Từ Liêm, Hà Nội
+51	"Trung tâm C4I - Viettel
+Trung tâm C4I, Tổng công ty Công nghiệp Công nghệ cao Viettel"	Website	8	100	10 SV	380 Lạc Long Quân - Tây Hồ - Hà Nội
+52	"WorldQuant
+Công ty TNHH Phần mềm đầu tư WorldQuant Việt Nam"	Website	3	96	0 SV	Tầng 15, Toà Đông, Toà nhà Lotte Center Hà Nội, Số 54 Phố Liễu Giai, Phường Cống Vị, Quận Ba Đình, Thành phố Hà Nội
+53	"TIBCO Vietnam
+TIBCO Orchestra Vietnam"	Website	0	80	4 SV	10th Floor, Diamon Flower Tower, 48 Le Van Luong, Hanoi
+54	"Tập đoàn công nghệ Thăng Long
+Công ty Cổ phần Tập đoàn Công nghệ Thăng Long"	Website	1	70	20 SV	Tòa số 2, dãy 16A2, Làng Việt Kiều Châu Âu, Nguyễn Văn Lộc, Mỗ Lao, Hà Đông
+55	"eUp Group
+Công ty Cổ phần Công nghệ eUp"	Website	4	70	10 SV	Tòa nhà Toyota, số 315 Trường Chinh, Phương Mai, Thanh Xuân, Hà Nội.
+56	"Heligate
+Công ty Cổ phần Heligate"	Website	8	70	0 SV	14 Mễ Trì Thượng, Nam Từ Liêm, Hà Nội
+57	"PIXTA Việt Nam
+Công ty TNHH PIXTA Việt Nam"	Website	2	60	2 SV	Số 1 Phùng Chí Kiên, Cầu Giấy
+58	"CÔNG TY CỔ PHẦN CÔNG NGHỆ SECOMUS
+CÔNG TY CỔ PHẦN CÔNG NGHỆ SECOMUS"	Website	2	60	10 SV	V4.4-3 – Tòa nhà Home City – 177 Trung Kính – Hà Nội
+59	"SONG NAM GROUP
+CÔNG TY CỔ PHẦN TẬP ĐOÀN SONG NAM"	Website	3	55	10 SV	Tầng 3, tòa nhà Audi, số 8 đường Phạm Hùng, Mễ Trì, Nam Từ Liêm, Hà Nội
+60	"Vbee
+Công ty Cổ phần dịch vụ và giải pháp xử lý dữ liệu VBEE"	Website	11	50	25 SV	Số 101-Tòa nhà B1, đường Nguyễn Khánh Toàn, P. Quan Hoa, Q. Cầu Giấy
+61	"Aimesoft
+Công ty Cổ phần Aimesoft"	Website	3	50	7 SV	Số 3, ngõ 82 Dịch Vọng Hậu
+62	"Aimenext
+Công ty cổ phần Aimenext"	Website	3	50	10 SV	Tầng 20, 219 Trung Kính
+63	"DAC Data Technology Việt Nam JSC
+Công ty Cổ phần DAC Data Technology Việt Nam"	Website	4	50	14 SV	Tầng 2A, Tòa nhà Hong Kong Tower, 243A Đê La Thành, Phường Láng Thượng, Quận Đống Đa, Thành phố Hà Nội, Việt Nam
+64	"sPhoton Technology
+Công ty TNHH công nghệ sphoton Việt Nam"	Website	4	50	10 SV	Số 70/27 Đại Cồ Việt, Hai Bà Trưng, Hà Nội
+65	"KoolSoft
+Công ty cổ phần Đầu tư và Phát triển KoolSoft"	Website	10	50	5 SV	Số 118, Nguyễn Ngọc Nại, Thanh Xuân, Hà Nội
+66	"Tokyo Tech Lab
+Công Ty Cổ Phần Tokyo Tech Lab Việt Nam"	Website	5	45	50 SV	Toà E4 - CT3, Yên Hoà Park View, số 03 Vũ Phạm Hàm, Cầu Giấy, Hà Nội
+67	"TovChain JSC
+Công ty cổ phần TovChain"	Website	3	40	0 SV	Tầng 10, Số 19 Lê Thanh Nghị, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội
+68	"DM GROUP
+CÔNG TY CỔ PHẦN TRUYỀN THÔNG VÀ GIẢI TRÍ DM GROUP"	Website	0	40	0 SV	Tầng 3, Green Park Tower, 33 Dương Đình Nghệ, Yên Hòa, Cầu Giấy, Hà Nội
+69	"AvePoint Việt Nam
+Công ty trách nhiệm hữu hạn AvePoint Việt Nam"	Website	6	36	30 SV	A17 Tạ Quang Bửu, Bách Khoa, Hai Bà Trưng, Hà Nội
+70	"Dimage Share Việt Nam
+Công ty TNHH Dimage Share Việt Nam"	Website	3	30	10 SV	Tầng 11, tòa nhà Lilama 10, 56 Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội, Việt Nam
+71	"Công ty Cổ phần Công nghệ và Giải pháp Y tế
+Công ty Cổ phần Công nghệ và Giải pháp Y tế"	Website	8	30	10 SV	TT6.2A-102 khu đô thị mới Đại Kim, phường Đại Kim, quận Hoàng Mai, Hà Nội
+72	"SONEK.,JSC
+Công ty cổ phần Công nghệ mạng xã hội"	Website	4	30	3 SV	138 Trần Bình
+73	"Qikify
+Công Ty Cổ phần Công nghệ Thông tin Qikify"	Website	9	25	10 SV	tầng 18, tòa nhà Cland, số 156 ngõ Xã Đàn 2, Phường Nam Đồng, Quận Đống Đa, Hà Nội
+74	"Pionero JSC
+Công ty cổ phần Pionero"	Website	5	22	5 SV	Tầng 4, Helios Tower, 75 Tam Trinh, Hoàng Mai, Hà Nội
+75	"VNIST
+Công ty Cổ phần Công nghệ An toàn Thông tin và Truyền thông Việt Nam"	Website	6	20	8 SV	901A 8c Tạ Quang Bửu, Hai Bà Trưng, Hà Nội
+76	"CÔNG TY TNHH SY PARTNERS
+CÔNG TY TNHH SY PARTNERS"	Website	0	20	5 SV	Tầng 10, tòa nhà An Phú, 24 Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam
+77	"Công ty TNHH Công Nghệ Pip Việt Nam
+Công ty TNHH Công Nghệ Pip Việt Nam"	Website	2	20	10 SV	40 Tạ Quang Bửu
+78	"CyStack
+Công ty Cổ phần An ninh mạng CyStack"	Website	9	20	0 SV	Lê Văn Lương, Hà Nội
+79	"Computer Vision Lab - BKAI
+Computer Vision Lab - BKAI"	Website	3	20	0 SV	Tầng 10, toà nhà B1, ĐHBKHN
+80	"Trung tâm Mạng Thông tin
+Trung tâm Mạng Thông tin"	Website	5	20	10 SV	Tầng 9 Tòa nhà thư viện TQB
+81	"Computer Vision Việt Nam (CVS)
+CÔNG TY CỔ PHẦN CÔNG NGHỆ COMPUTER VISION VIỆT NAM"	Website	2	18	10 SV	14 Pháo Đài Láng, Láng Thượng, Đống Đa, Hà Nội
+82	"ARROW TECHNOLOGIES VIETNAM
+Công ty TNHH CÔNG NGHỆ ARROW VIỆT NAM"	Website	8	18	10 SV	Tầng 18, tòa nhà VTC Online, 18 Tam Trinh, Hai Bà Trưng, Hà Nội.
+83	"MDC SOFTWARE
+Công ty TNHH Công nghệ và Truyền thông MDC Việt Nam"	Website	15	15	10 SV	Tầng 15, Tòa nhà Việt Á, 9 Duy Tân, Cầu Giấy, Hà Nội
+84	"DSLab
+Data Science Laboratory"	Website	5	15	15 SV	1002, nhà B1, ĐHBKHN
+85	"InfraTech JSC
+CÔNG TY CỔ PHẦN CÔNG NGHỆ INFRATECH"	Website	5	11	5 SV	Số 1 ngõ 858 đường Kim Giang, Xã Thanh Liệt, Huyện Thanh Trì, Thành phố Hà Nội, Việt Nam
+86	"TT An toàn an ninh thông tin
+Trung tâm An toàn an ninh thông tin, Trường ĐHBK Hà Nội"	Website	3	10	1 SV	Phòng 405, Nhà B1, Đại học Bách khoa Hà Nội
+87	"Phòng Thí Nghiệm Công nghệ Mạng và Truyền Thông
+Phòng Thí Nghiệm Công nghệ Mạng và Truyền thông"	Website	1	10	10 SV	Phòng 901 Nhà B1 Viện Công nghệ Thông tin và Truyền thông
+88	"TOVI
+Công ty cổ phần công nghệ TOVI Việt Nam"	Website	1	10	5 SV	82 Dịch Vọng Hậu, Cầu Giấy, Hà Nội
+89	"Navistar
+Công Ty Cổ Phần Nghiên Cứu Và Phát Triển Công Nghệ Navistar"	Website	1	10	30 SV	Tầng 5, tòa nhà số 1, ngõ 120 đường Trường Chinh, Phường Phương Mai, Quận Đống đa, Thành phố Hà Nội
+90	"công ty TNHH mMenu
+Công ty TNHH mMenu"	Website	5	10	10 SV	PB15, Tầng 2, Lô A1, Tòa nhà Indochina Plaza, Hà Nội, Số 241 đường Xuân Thủy, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội
+91	"MSO Lab
+Phòng thí nghiệm nghiên cứu Mô hình hóa, mô phỏng và tối ưu hóa"	Website	27	6	0 SV	902 B1
+92	"Lab ISE
+Lab Intelligent Software Engineering - BK AI Center"	Website	2	5	4 SV	Tầng 10, Toà B1, ĐH BK HN
+93	"NLP lab
+NLP Lab"	Website	2	5	8 SV	Tầng 10 B1, ĐHBKHN
+94	"Lab Khoa học dữ liệu
+Lab Khoa học dữ liệu (nhóm thầy Trung)"	Website	7	5	0 SV	1002 B1
+95	"CDCT-HUST
+Trung tâm Công nghệ Dữ liệu và Tính toán, Trường Đại học Bách Khoa Hà Nội"	Website	11	5	10 SV	Phòng 609, thư viện Tạ Quang Bửu, Đại học Bách Khoa Hà Nội
+96	"TRUNG TÂM CÔNG NGHỆ VÀ GIẢI PHÁP CHUYỂN ĐỔI SỐ TRONG GIÁO DỤC
+TRUNG TÂM CÔNG NGHỆ VÀ GIẢI PHÁP CHUYỂN ĐỔI SỐ TRONG GIÁO DỤC"	Website	2	2	10 SV	Văn phòng: tầng 9, tòa nhà B1, Trường Đại học Bách Khoa Hà Nội
+97	"Deepcare Vietnam JSC
+Công ty cổ phần Deepcare Việt Nam"	Website	0	0	0 SV	
+98	"AIoTLab
+Phòng nghiên cứu trí tuệ nhân tạo và mạng Internet vạn vật"	Website	3	0	0 SV	Tầng 10 nhà B1, Đại học Bách khoa Hà Nội
+99	"TECHCOMBANK
+NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM"	Website	0	0	0 SV	191 BÀ TRIỆU, LÊ ĐẠI HÀNH, HAI BÀ TRƯNG, HÀ NỘI
